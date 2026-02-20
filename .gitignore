@@ -1,1 +1,4 @@
+.TheoryPDF/
+.idea/
+.vscode/
 *.pdf
